@@ -1,0 +1,4 @@
+token.txt
+users.txt
+*__pycache__*
+.idea/
